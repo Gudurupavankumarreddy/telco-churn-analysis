@@ -1,0 +1,98 @@
+TELECOM CUSTOMER RETENTION - EXECUTIVE SUMMARY
+======================================================================
+
+Analysis Date: February 2026
+Customer Base: 7,043
+Current Churn Rate: 26.5%
+Annual Revenue Impact: $3,003,101.90
+
+
+
+Based on comprehensive analysis of 7,043 customer records, we recommend
+implementing the following retention strategies:
+
+┌────────────────────────────────────────────────────────────────────┐
+│ 1. CONTRACT CONVERSION INCENTIVE PROGRAM                           │
+└────────────────────────────────────────────────────────────────────┘
+
+FINDING: Month-to-month customers churn at {mtm_rate:.1f}% vs {annual_rate:.1f}% for annual
+
+RECOMMENDATION:
+   • Offer 15% discount for month-to-month → annual contract upgrades
+   • Target customers in months 3-6 (before churn window peaks)
+   • Create "contract loyalty bonus" - waive installation fees for upgrades
+
+PROJECTED IMPACT:
+   • 25% conversion rate from {mtm_count:,} M2M customers = {mtm_converts:,} upgrades
+   • Churn reduction: {churn_reduction:.0f}% fewer churns/year
+   • Revenue protection: ${revenue_protection:,.0f}/year
+
+┌────────────────────────────────────────────────────────────────────┐
+│ 2. NEW CUSTOMER ONBOARDING PROGRAM (90-DAY INTENSIVE)              │
+└────────────────────────────────────────────────────────────────────┘
+
+FINDING: {first_year_rate:.1f}% of first-year customers churn
+
+RECOMMENDATION:
+   • Welcome call within 48 hours of activation
+   • Check-in touchpoints: Day 30, Day 60, Day 90
+   • Proactive tech support for first 3 months (included free)
+   • "VIP onboarding" for customers spending >${high_spend_threshold:.0f}/month
+
+PROJECTED IMPACT:
+   • Reduce first-year churn by 20% ({first_year_saves:,} customers saved)
+   • Additional annual revenue: ${first_year_revenue:,.0f}
+
+┌────────────────────────────────────────────────────────────────────┐
+│ 3. HIGH-RISK CUSTOMER INTERVENTION CAMPAIGN                        │
+└────────────────────────────────────────────────────────────────────┘
+
+FINDING: {hr_total:,} customers scored as "High Risk" (61-100 score)
+
+RECOMMENDATION:
+   • Weekly risk score monitoring and alerts
+   • Proactive outreach to High Risk tier within 48 hours
+   • Personalized retention offers:
+      - Service upgrade at no cost for 3 months
+      - Bill credit ($25-50 based on tenure)
+      - Premium support line access
+
+PROJECTED IMPACT:
+   • Campaign cost: ${hr_campaign_cost:,.0f}
+   • Expected saves (30% effectiveness): {hr_saves:,} customers
+   • Revenue saved: ${hr_revenue_saved:,.0f}
+   • ROI: {hr_roi:.1f}%
+
+┌────────────────────────────────────────────────────────────────────┐
+│ 4. AUTOMATIC PAYMENT INCENTIVE                                     │
+└────────────────────────────────────────────────────────────────────┘
+
+FINDING: Electronic check users churn at {electronic_rate:.1f}% vs {auto_rate:.1f}% 
+         for automatic payment methods
+
+RECOMMENDATION:
+   • $5/month discount for enrolling in auto-pay
+   • One-time $25 credit for switching to automatic payments
+   • Email campaign targeting electronic check users
+
+PROJECTED IMPACT:
+   • Target: {electronic_count:,} electronic check customers
+   • Expected 40% conversion = {auto_converts:,} customers
+   • Churn reduction: {auto_churn_reduction:,.0f} customers/year
+   • Net benefit (reduced churn - discounts): ${auto_net:,.0f}/year
+
+┌────────────────────────────────────────────────────────────────────┐
+│ 5. FIBER OPTIC SERVICE OPTIMIZATION                                │
+└────────────────────────────────────────────────────────────────────┘
+
+FINDING: Fiber optic customers show elevated churn despite premium pricing
+
+RECOMMENDATION:
+   • Bundle free tech support with fiber plans (first 6 months)
+   • Quality monitoring - proactive outreach on speed issues
+   • Price-lock guarantee for fiber customers (2-year commitment)
+
+PROJECTED IMPACT:
+   • Reduce fiber churn by 15%
+   • Retain ${fiber_revenue:,.0f} in annual high-value revenue
+
